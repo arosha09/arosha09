@@ -1,14 +1,14 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, Arosha here!
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35"> Hey, Arosha here!
 
-## 🏆 Learning
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="30" height="30"> Learning
 - KodeKloud
 
-## 📦 Featured Project
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e6/512.gif" alt="📦" width="30" height="30"> Featured Project
 ### ProjectGG (Under development)
 - [GitHub Repository](https://github.com/arosha09/ProjectGG)
 - [Live Demo](https://projectgg-frontend.vercel.app/)
 
-## 👨🏽‍💻 Languages & Frameworks
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="30" height="30"> Languages & Frameworks
 <p align="left">
   <a href="https://python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" /></a> &nbsp;&nbsp;
   <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" title="Angular" /></a> &nbsp;&nbsp;
